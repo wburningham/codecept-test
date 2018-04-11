@@ -1,0 +1,12 @@
+{
+  "tests": "./*.js",
+  "timeout": 10000,
+  "output": "./output",
+  "helpers": {
+    "Puppeteer": {}
+  },
+  "include": {},
+  "bootstrap": false,
+  "mocha": {},
+  "name": "codecept-test"
+}
